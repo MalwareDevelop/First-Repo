@@ -4,7 +4,7 @@ Hello and thank you for visiting my very first GitHub repository. I'm excited to
 
 ## About Me
 
-I'm [Your Name], and I'm passionate about technology, problem-solving, and creating amazing things with code. I'm relatively new to programming, but I'm eager to learn and grow in this exciting field.
+I'm Cheep Anonymous, (LOL) and I'm passionate about technology, problem-solving, and creating amazing things with code. I'm relatively new to programming, but I'm eager to learn and grow in this exciting field.
 
 ## What You'll Find Here
 
